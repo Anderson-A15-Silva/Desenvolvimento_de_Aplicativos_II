@@ -68,7 +68,7 @@ class DatabaseHelper{
     return result;
   }
 
-    Future<int> updateNote(Note note) async {
+  Future<int> updateNote(Note note) async {
     Database? db = await this.db;
     final int result = await db!.update(
       noteTable, 

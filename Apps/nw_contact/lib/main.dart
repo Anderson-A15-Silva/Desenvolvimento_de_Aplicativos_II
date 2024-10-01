@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:nw_contact/screens/account_screen/account_screen_page.dart';
+import 'package:nw_contact/screens/contact_screen/contact_screen_page.dart';
 import 'package:nw_contact/screens/home_screen/home_screen_page.dart';
 
 void main() {
@@ -19,7 +21,7 @@ class MainApp extends StatelessWidget {
       ),
       home: const Scaffold(
         body: Center(
-          child: HomeScreenPage(),
+          child: ContactScreenPage(),
         ),
       ),
     );

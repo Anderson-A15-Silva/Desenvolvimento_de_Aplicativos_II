@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 class AccountScreenPage extends StatelessWidget {
-  const AccountScreenPage({super.key});
+  AccountScreenPage({super.key, this.imagePath});
+
+  String? imagePath;
 
   @override
   Widget build(BuildContext context) {
