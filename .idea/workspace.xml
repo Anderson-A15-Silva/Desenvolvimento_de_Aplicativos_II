@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b97ef7a9-0d64-4714-b8c7-58a7aa6ae910" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/kotlin/com/example/fazbear_security_todo/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/lib/database/database.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/lib/models/task_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/lib/screens/home_page/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/lib/theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/fazbear_security_todo/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/components/contact_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/components/contact_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/components/contact_input.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/components/contact_input.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/models/contact_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/models/contact_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/account_screen/account_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/account_screen/account_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/contact_screen/contact_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/contact_screen/contact_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/home_screen/home_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/home_screen/home_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/login_screen/login_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/login_screen/login_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/modify_screen/modify_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/lib/screens/modify_screen/modify_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/nw_contact/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/lib/screens/add_note_screen/add_note_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/lib/screens/add_note_screen/add_note_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/lib/screens/home_screen/home_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/lib/screens/home_screen/home_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Apps/todoapp/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/lib/database/database.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/lib/database/database.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/lib/models/save_task.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/lib/models/save_task.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/lib/models/task_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/lib/models/task_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/lib/screens/add_task/add_task_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/lib/screens/add_task/add_task_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/lib/screens/list_screen/list_screen_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/lib/screens/list_screen/list_screen_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/apps/fazbearnote_app/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/01 - Introdução - Dart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/02 - Variáveis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/03 - Introdução a Orientação a Objetos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/04 - Instâncias das classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/05 - Funções - Declarações.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/apostila/Unidade I da apostila-20240814/06 - Funções - Arrow e métodos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio3.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio4.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio5.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/exercicio6.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/others/classes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula01/others/tipos.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio10.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio11.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio12.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio13.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio7.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio8.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana1/aula02/exercicio9.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/exercicio1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/exercicio2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/exercicio3.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/exercicio4.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/exercicio5.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula03/others/enums.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana2/aula04/exercicio1.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pLf6wJ2phOFdUbjiQ7PdKfA5qO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Anderson/Documents/Desenvolvimento_de_Aplicativos_II/Desenvolvimento_de_Aplicativos_II/Desenvolvimento_de_Aplicativos_II",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97ef7a9-0d64-4714-b8c7-58a7aa6ae910" name="Changes" comment="" />
+      <created>1732550105146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732550105146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
